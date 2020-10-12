@@ -1,0 +1,2 @@
+# ytmusicuploader
+YouTube Musicにコンソールからアップロードするためのスクリプト
